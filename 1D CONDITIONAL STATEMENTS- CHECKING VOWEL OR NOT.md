@@ -16,7 +16,6 @@ python
 # Reg.No-212222060036
 # Name-Deepasree
 # Write your code here
-
 a = int(input())
 if a == 1:
     print('Admin')
