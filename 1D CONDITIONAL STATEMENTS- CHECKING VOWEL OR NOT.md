@@ -13,9 +13,9 @@ To Write a Python program to check whether the given character is a vowel or not
 
 ## PROGRAM
 python
-# Reg.No-212222060036
-# Name-Deepasree
-# Write your code here
+Reg.No-212222060036
+Name-Deepasree
+Write your code here
 a = int(input())
 if a == 1:
     print('Admin')
