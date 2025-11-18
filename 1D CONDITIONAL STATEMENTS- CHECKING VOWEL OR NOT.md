@@ -18,21 +18,13 @@ python
 # Write your code here
 
 a = int(input())
-
 if a == 1:
-
     print('Admin')
-
 elif a == 2:
-
     print('Editor')
-
 elif a == 3:
-
     print('Guest')
-
 else:
-
     print('Wrong entry')
 
 
