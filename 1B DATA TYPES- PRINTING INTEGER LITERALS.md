@@ -16,11 +16,16 @@ python
 # Write your code here
 
 num1 = 123
+
 num2 = 456
+
 num3 = 789
 
+
 print(num1)
+
 print(num2)
+
 print(num3)
 
 
