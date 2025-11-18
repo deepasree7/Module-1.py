@@ -12,7 +12,7 @@ To write a Python program for adding two complex numbers, and get the user input
 6. Terminate the program.
 
 ## PROGRAM
-python
+```python
 # Reg.No-212222060036
 # Name-Deepasree
 # Write your code here
@@ -21,7 +21,7 @@ b = eval()
 print(f"A is {a}")
 print(f"B is {b}")
 print(f"Sum is {a+b}")
-
+```
 
 ## OUTPUT
 
